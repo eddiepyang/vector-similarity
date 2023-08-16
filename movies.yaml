@@ -1,0 +1,5 @@
+groupby_vars: ["tconst", "startYear", "genres"],
+title: "originalTitle"
+name_id: "nconst"
+role: "category"
+name: "primaryName"
